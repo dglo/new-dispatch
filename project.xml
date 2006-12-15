@@ -1,0 +1,15 @@
+<project>
+    <name>new-dispatch</name>
+    <packages default="icecube.daq.dispatch">
+    </packages>
+    <uses>
+        <libs></libs>
+        <tools></tools>
+    </uses>
+    <test>
+        <uses>
+            <libs></libs>
+            <tools></tools>
+        </uses>
+    </test>
+</project>
